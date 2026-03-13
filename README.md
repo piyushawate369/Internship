@@ -11,7 +11,6 @@ The objective of this project is to create a basic webpage layout including the 
 - Main Content Section
 - Three content boxes (Title, Image, Description)
 - Footer section
--
 
 ## Technologies Used
 
