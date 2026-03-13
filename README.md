@@ -5,13 +5,13 @@ This project is a simple webpage designed using **HTML, CSS, and JavaScript** as
 ## Project Description
 The objective of this project is to create a basic webpage layout including the following components:
 
-- Header (Logo on left, social links on right)
+- Header (Logo on left, social links and Day and Night mode toggle using JavaScript on right)
 - Menubar (Navigation menu)
 - Sidebar (Custom data and links)
 - Main Content Section
 - Three content boxes (Title, Image, Description)
 - Footer section
-- Day and Night mode toggle using JavaScript
+-
 
 ## Technologies Used
 
