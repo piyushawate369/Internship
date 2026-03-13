@@ -37,5 +37,3 @@ Footer
 - Content boxes with image and description
 - Day / Night mode toggle
 - Simple and responsive design
-
-## Project Files
